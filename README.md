@@ -4,7 +4,7 @@ Official implementation of the paper "Structured Learning of Compositional Seque
 
 ## Overview
 
-This repository contains the code for training and evaluating the CSI-VAE model, which [brief 1-2 sentence description of what the model does].
+This repository contains the code for training and evaluating the CSI-VAE model, which allows us to build predictive models that can identify and learn the effects of intervention combinations in sequential settings, particularly in sparse data regimes where only limited combinations are jointly observed.
 
 ## Installation
 
