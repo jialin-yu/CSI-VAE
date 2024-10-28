@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*/.DS_Store
+
+spotify/log_prehistory_20180918_000000000000.csv
+spotify/spotify_data.csv
+
+*.npy
+*/data/*
+*/model/*
